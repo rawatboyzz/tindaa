@@ -1,0 +1,3 @@
+i am learning git init commnads
+also know about the master and main branch how to change the name of branch
+also how before 2020 the default branch name was master but now people like to make main default brach and github a hosting platform also adapt main to their repositories as defalult branch.
